@@ -4,3 +4,7 @@ Package manager: pathogen
 
 Packages:
 
+* Airline
+* Airline themes
+* Surround vim
+* ycm
