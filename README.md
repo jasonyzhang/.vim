@@ -28,5 +28,5 @@ cd ~/.vim/bundle/YouCompleteMe
 3. Symlink vimrc
 
 ```
-ln -sf vimrc ~/.vimrc
+ln -sf ~/.vim/vimrc ~/.vimrc
 ```
