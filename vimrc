@@ -18,6 +18,7 @@ set expandtab       " 4 spaces for tab
 
 " 80 char visual indicator
 set colorcolumn=80
+set backspace=indent,eol,start  " backspace deletes everything
 
 let g:airline_theme='powerlineish'
 
@@ -29,3 +30,4 @@ let g:indentLine_char = '▏'
 
 " Macro for ipdb
 let @p = "Oimport ipdb; ipdb.set_trace()"
+
